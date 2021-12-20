@@ -2,4 +2,5 @@
 
 Teste de commit no Intellij
 Teste de commit no Intellij: segunda linha
-Teste de commit no Intellij: muda o usuario 
+Teste de commit no Intellij: muda o usuario
+Adds another line to see if password has been saved
